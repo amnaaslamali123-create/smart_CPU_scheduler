@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d51c63b4-191f-48e1-903c-90c39c6b7e65" />
 # Smart CPU Scheduler
 
 A beginner-friendly desktop application for studying CPU scheduling algorithms using Python and Tkinter.
